@@ -17,9 +17,7 @@ public class PalindromeController {
         return palindrome.PalindromeOrNot();
     }
 
-    @GetMapping("/solve")
-    public int marThe(){
-        return 8;
+   
     }
 
 }
